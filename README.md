@@ -18,5 +18,5 @@ Some high-revenue customers generate low or negative profit
 Revenue trends show overall growth with periodic volatility
 
 Tools Used:
-Tableau
+Tableau,
 Excel (Superstore dataset)
