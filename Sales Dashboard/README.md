@@ -55,7 +55,7 @@ These KPIs provide a high-level summary of overall sales performance.
 
 Provides an executive snapshot of overall sales performance by displaying total revenue, total profit, and total order volume.
 
-![KPI Summary](images/kpi.png)
+![KPI Summary](images/kpi_row.png)
 
 ---
 
